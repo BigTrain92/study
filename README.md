@@ -13,7 +13,7 @@ int main(void){
 
 링크는 다음과 같이 작성할 수 있습니다.
 
-[네이버](http://www.navver.com)
+[네이버](http://www.naver.com)
 
 순서가 없는 목록은 당므과 같이 작성할 수 있습니다.
 
